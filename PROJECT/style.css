@@ -1,0 +1,20 @@
+.wow {
+  width: 100px;
+}
+
+#screen {
+  border: 1px solid black;
+}
+
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body {
+  background-color: #000000;
+}
